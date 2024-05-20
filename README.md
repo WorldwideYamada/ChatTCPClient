@@ -9,7 +9,7 @@ The server does not have the same freedom unfortunately.
 
 ## To Do List:
 
--Add support for multiple clients
--Fix up some messy programming
--Do something with the empty "Server IP" box in the server window
+- Add support for multiple clients
+- Fix up some messy programming
+- Do something with the empty "Server IP" box in the server window
 - Remake in WPF instead of Windows Forms
