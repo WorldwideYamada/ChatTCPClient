@@ -7,11 +7,7 @@ The server and client users can communicate to each other through text messaging
 The client may disconnect and connect freely, but the server must be running for the client to do so.
 The server does not have the same freedom unfortunately.
 
-## How to Build:
 
-1. Open in Visual Studio
-2. Navigate to "Build" category tab at top of Window
-3. Publish a server and client to any location
 
 ### To Do List:
 
